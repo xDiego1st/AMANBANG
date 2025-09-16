@@ -1,0 +1,500 @@
+[
+    {
+        "kode_pos": 28122,
+        "id": "147101002",
+        "name": "Jadirejo",
+        "kecamatan_id": 147101
+    },
+    {
+        "kode_pos": 28128,
+        "id": "147101003",
+        "name": "Kampung Tengah",
+        "kecamatan_id": 147101
+    },
+    {
+        "kode_pos": 28124,
+        "id": "147101004",
+        "name": "Kampung Melayu",
+        "kecamatan_id": 147101
+    },
+    {
+        "kode_pos": 28123,
+        "id": "147101005",
+        "name": "Kedung Sari (Kedungsari)",
+        "kecamatan_id": 147101
+    },
+    {
+        "kode_pos": 28122,
+        "id": "147101006",
+        "name": "Harjosari",
+        "kecamatan_id": 147101
+    },
+    {
+        "kode_pos": 28121,
+        "id": "147101007",
+        "name": "Sukajadi",
+        "kecamatan_id": 147101
+    },
+    {
+        "kode_pos": 28127,
+        "id": "147101008",
+        "name": "Pulau Karomah",
+        "kecamatan_id": 147101
+    },
+    {
+        "kode_pos": 28116,
+        "id": "147102001",
+        "name": "Simpang Empat",
+        "kecamatan_id": 147102
+    },
+    {
+        "kode_pos": 28111,
+        "id": "147102002",
+        "name": "Sumahilang (Suma Hilang)",
+        "kecamatan_id": 147102
+    },
+    {
+        "kode_pos": 28115,
+        "id": "147102003",
+        "name": "Tanah Datar",
+        "kecamatan_id": 147102
+    },
+    {
+        "kode_pos": 28114,
+        "id": "147102004",
+        "name": "Kota Baru",
+        "kecamatan_id": 147102
+    },
+    {
+        "kode_pos": 28113,
+        "id": "147102005",
+        "name": "Sukaramai (Suka Ramai)",
+        "kecamatan_id": 147102
+    },
+    {
+        "kode_pos": 28112,
+        "id": "147102006",
+        "name": "Kota Tinggi",
+        "kecamatan_id": 147102
+    },
+    {
+        "kode_pos": 28131,
+        "id": "147103001",
+        "name": "Cinta Raja",
+        "kecamatan_id": 147103
+    },
+    {
+        "kode_pos": 28133,
+        "id": "147103002",
+        "name": "Suka Mulia (Sukamulya)",
+        "kecamatan_id": 147103
+    },
+    {
+        "kode_pos": 28132,
+        "id": "147103003",
+        "name": "Sukamaju (Suka Maju)",
+        "kecamatan_id": 147103
+    },
+    {
+        "kode_pos": 28141,
+        "id": "147104001",
+        "name": "Rintis",
+        "kecamatan_id": 147104
+    },
+    {
+        "kode_pos": 28143,
+        "id": "147104002",
+        "name": "Tanjung Rhu",
+        "kecamatan_id": 147104
+    },
+    {
+        "kode_pos": 28144,
+        "id": "147104003",
+        "name": "Pesisir",
+        "kecamatan_id": 147104
+    },
+    {
+        "kode_pos": 28142,
+        "id": "147104004",
+        "name": "Sekip",
+        "kecamatan_id": 147104
+    },
+    {
+        "kode_pos": 28156,
+        "id": "147105001",
+        "name": "Padang Bulan",
+        "kecamatan_id": 147105
+    },
+    {
+        "kode_pos": 28151,
+        "id": "147105002",
+        "name": "Sago",
+        "kecamatan_id": 147105
+    },
+    {
+        "kode_pos": 28154,
+        "id": "147105003",
+        "name": "Kampung Baru",
+        "kecamatan_id": 147105
+    },
+    {
+        "kode_pos": 28152,
+        "id": "147105004",
+        "name": "Kampung Dalam",
+        "kecamatan_id": 147105
+    },
+    {
+        "kode_pos": 28153,
+        "id": "147105005",
+        "name": "Kampung Bandar",
+        "kecamatan_id": 147105
+    },
+    {
+        "kode_pos": 28155,
+        "id": "147105006",
+        "name": "Padang Terubuk",
+        "kecamatan_id": 147105
+    },
+    {
+        "kode_pos": 28264,
+        "id": "147106003",
+        "name": "Rumbai Bukit",
+        "kecamatan_id": 147106
+    },
+    {
+        "kode_pos": 28267,
+        "id": "147106005",
+        "name": "Muarafajar Timur",
+        "kecamatan_id": 147106
+    },
+    {
+        "kode_pos": 28267,
+        "id": "147106010",
+        "name": "Muarafajar Barat",
+        "kecamatan_id": 147106
+    },
+    {
+        "kode_pos": 28264,
+        "id": "147106011",
+        "name": "Rantaupanjang",
+        "kecamatan_id": 147106
+    },
+    {
+        "kode_pos": 28264,
+        "id": "147106012",
+        "name": "Maharani",
+        "kecamatan_id": 147106
+    },
+    {
+        "kode_pos": 28264,
+        "id": "147106013",
+        "name": "Agrowisata",
+        "kecamatan_id": 147106
+    },
+    {
+        "kode_pos": 28284,
+        "id": "147107005",
+        "name": "Simpang Tiga",
+        "kecamatan_id": 147107
+    },
+    {
+        "kode_pos": 28288,
+        "id": "147107006",
+        "name": "Tangkerang Selatan",
+        "kecamatan_id": 147107
+    },
+    {
+        "kode_pos": 28289,
+        "id": "147107008",
+        "name": "Tangkerang Utara",
+        "kecamatan_id": 147107
+    },
+    {
+        "kode_pos": 28281,
+        "id": "147107011",
+        "name": "Tangkerang Labuai",
+        "kecamatan_id": 147107
+    },
+    {
+        "kode_pos": 28284,
+        "id": "147107012",
+        "name": "Airdingin",
+        "kecamatan_id": 147107
+    },
+    {
+        "kode_pos": 28293,
+        "id": "147108001",
+        "name": "Simpangbaru",
+        "kecamatan_id": 147108
+    },
+    {
+        "kode_pos": 28290,
+        "id": "147108008",
+        "name": "Delima",
+        "kecamatan_id": 147108
+    },
+    {
+        "kode_pos": 28297,
+        "id": "147108009",
+        "name": "Tobekgodang",
+        "kecamatan_id": 147108
+    },
+    {
+        "kode_pos": 28295,
+        "id": "147108010",
+        "name": "Binawidya",
+        "kecamatan_id": 147108
+    },
+    {
+        "kode_pos": 28292,
+        "id": "147108011",
+        "name": "Sungai sibam",
+        "kecamatan_id": 147108
+    },
+    {
+        "kode_pos": 28282,
+        "id": "147109001",
+        "name": "Tangkerang Barat",
+        "kecamatan_id": 147109
+    },
+    {
+        "kode_pos": 28282,
+        "id": "147109002",
+        "name": "Tangkerang Tengah",
+        "kecamatan_id": 147109
+    },
+    {
+        "kode_pos": 28125,
+        "id": "147109003",
+        "name": "Sidomulyo Timur",
+        "kecamatan_id": 147109
+    },
+    {
+        "kode_pos": 28125,
+        "id": "147109004",
+        "name": "Wonorejo",
+        "kecamatan_id": 147109
+    },
+    {
+        "kode_pos": 28125,
+        "id": "147109005",
+        "name": "Maharatu",
+        "kecamatan_id": 147109
+    },
+    {
+        "kode_pos": 28125,
+        "id": "147109006",
+        "name": "Perhentianmarpoyan",
+        "kecamatan_id": 147109
+    },
+    {
+        "kode_pos": 28285,
+        "id": "147110002",
+        "name": "Bencahlesung (Sail)",
+        "kecamatan_id": 147110
+    },
+    {
+        "kode_pos": 28289,
+        "id": "147110003",
+        "name": "Tangkerang Timur",
+        "kecamatan_id": 147110
+    },
+    {
+        "kode_pos": 28281,
+        "id": "147110004",
+        "name": "Rejosari",
+        "kecamatan_id": 147110
+    },
+    {
+        "kode_pos": 28281,
+        "id": "147110005",
+        "name": "Bambukuning",
+        "kecamatan_id": 147110
+    },
+    {
+        "kode_pos": 28285,
+        "id": "147110010",
+        "name": "Melebung",
+        "kecamatan_id": 147110
+    },
+    {
+        "kode_pos": 28285,
+        "id": "147110011",
+        "name": "Industritenayan",
+        "kecamatan_id": 147110
+    },
+    {
+        "kode_pos": 28285,
+        "id": "147110012",
+        "name": "Sialangsakti",
+        "kecamatan_id": 147110
+    },
+    {
+        "kode_pos": 28285,
+        "id": "147110013",
+        "name": "Tuahnegeri",
+        "kecamatan_id": 147110
+    },
+    {
+        "kode_pos": 28292,
+        "id": "147111001",
+        "name": "Tampan",
+        "kecamatan_id": 147111
+    },
+    {
+        "kode_pos": 28292,
+        "id": "147111002",
+        "name": "Labuh Baru Timur",
+        "kecamatan_id": 147111
+    },
+    {
+        "kode_pos": 28292,
+        "id": "147111003",
+        "name": "Labuh Baru Barat",
+        "kecamatan_id": 147111
+    },
+    {
+        "kode_pos": 28292,
+        "id": "147111004",
+        "name": "Air Hitam",
+        "kecamatan_id": 147111
+    },
+    {
+        "kode_pos": 28292,
+        "id": "147111005",
+        "name": "Bandarraya",
+        "kecamatan_id": 147111
+    },
+    {
+        "kode_pos": 28292,
+        "id": "147111007",
+        "name": "Tirtasiak",
+        "kecamatan_id": 147111
+    },
+    {
+        "kode_pos": 28265,
+        "id": "147112007",
+        "name": "Umban Sari",
+        "kecamatan_id": 147112
+    },
+    {
+        "kode_pos": 28261,
+        "id": "147112008",
+        "name": "Sri Meranti",
+        "kecamatan_id": 147112
+    },
+    {
+        "kode_pos": 28264,
+        "id": "147112009",
+        "name": "Palas",
+        "kecamatan_id": 147112
+    },
+    {
+        "kode_pos": 28266,
+        "id": "147112001",
+        "name": "Meranti Pandak",
+        "kecamatan_id": 147112
+    },
+    {
+        "kode_pos": 28263,
+        "id": "147112004",
+        "name": "Lembah Damai",
+        "kecamatan_id": 147112
+    },
+    {
+        "kode_pos": 28261,
+        "id": "147112006",
+        "name": "Limbungan Baru",
+        "kecamatan_id": 147112
+    },
+    {
+        "kode_pos": 28286,
+        "id": "147114001",
+        "name": "Kulim",
+        "kecamatan_id": 147114
+    },
+    {
+        "kode_pos": 28286,
+        "id": "147114006",
+        "name": "Pebatuan",
+        "kecamatan_id": 147114
+    },
+    {
+        "kode_pos": 28286,
+        "id": "147114007",
+        "name": "Sialangrampai",
+        "kecamatan_id": 147114
+    },
+    {
+        "kode_pos": 28286,
+        "id": "147114008",
+        "name": "Mentangor",
+        "kecamatan_id": 147114
+    },
+    {
+        "kode_pos": 28289,
+        "id": "147114009",
+        "name": "Pematangkapau",
+        "kecamatan_id": 147114
+    },
+    {
+        "kode_pos": 28261,
+        "id": "147115002",
+        "name": "Limbungan",
+        "kecamatan_id": 147115
+    },
+    {
+        "kode_pos": 28262,
+        "id": "147115003",
+        "name": "Lembah Sari",
+        "kecamatan_id": 147115
+    },
+    {
+        "kode_pos": 28287,
+        "id": "147115005",
+        "name": "Tebing Tinggi Okura",
+        "kecamatan_id": 147115
+    },
+    {
+        "kode_pos": 28262,
+        "id": "147115007",
+        "name": "Sungaiambang",
+        "kecamatan_id": 147115
+    },
+    {
+        "kode_pos": 28287,
+        "id": "147115008",
+        "name": "Sungaiukai",
+        "kecamatan_id": 147115
+    },
+    {
+        "kode_pos": 28294,
+        "id": "147113006",
+        "name": "Sidomulyo Barat",
+        "kecamatan_id": 147113
+    },
+    {
+        "kode_pos": 28291,
+        "id": "147113007",
+        "name": "Tuahkarya (Tuah Karya)",
+        "kecamatan_id": 147113
+    },
+    {
+        "kode_pos": 28296,
+        "id": "147113011",
+        "name": "Airputih",
+        "kecamatan_id": 147113
+    },
+    {
+        "kode_pos": 28298,
+        "id": "147113012",
+        "name": "Tuahmadani",
+        "kecamatan_id": 147113
+    },
+    {
+        "kode_pos": 28299,
+        "id": "147113013",
+        "name": "Sialangmunggu",
+        "kecamatan_id": 147113
+    }
+]

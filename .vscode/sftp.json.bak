@@ -1,0 +1,14 @@
+{
+    "name": "My Server",
+    "host": "pkgw.pekanbaru.go.id",
+    "protocol": "sftp",
+    "port": 3202,
+    "username": "rasyid",
+    "password": "GAaqkpgnP5PL7zgrhKln",
+    "connectTimeout": 0,
+    "remotePath": "/var/www/amanbang.pekanbaru.go.id/html",
+    "uploadOnSave": true,
+    "DownloadOnOpen": true,
+    "useTempFile": false,
+    "openSsh": false
+}

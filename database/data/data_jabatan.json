@@ -1,0 +1,366 @@
+[
+    {
+      "No_Bidang": 1,
+      "Jabatan_Bidang": "Tenaga Administrasi Umum"
+    },
+    {
+      "No_Bidang": 1,
+      "Jabatan_Bidang": "Operator Komputer"
+    },
+    {
+      "No_Bidang": 1,
+      "Jabatan_Bidang": "Tenaga Ahli"
+    },
+    {
+      "No_Bidang": 1,
+      "Jabatan_Bidang": "Tenaga Kebersihan"
+    },
+    {
+      "No_Bidang": 1,
+      "Jabatan_Bidang": "Tenaga Keamanan"
+    },
+    {
+      "No_Bidang": 1,
+      "Jabatan_Bidang": "Supir"
+    },
+    {
+      "No_Bidang": 2,
+      "Jabatan_Bidang": "Tenaga Verifikasi Dokumen Lingkungan Hidup"
+    },
+    {
+      "No_Bidang": 3,
+      "Jabatan_Bidang": "Operator Ahli Pemantau Kualitas Udara"
+    },
+    {
+      "No_Bidang": 3,
+      "Jabatan_Bidang": "Operator Komputer"
+    },
+    {
+      "No_Bidang": 3,
+      "Jabatan_Bidang": "Tenaga Teknis Pemantau Kualitas Udara"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "Operator Komputer"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "Mandor"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "Teknisi Mesin dan Elektrik"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "THL Mesin Tandon Air"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "THL Mobil Tangki Penyiraman"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "THL Operasional Pemotong Rumput"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "Operator Chainsaw"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "THL Pemangkasan Bunga Topiary"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "THL Pemangkasan Pohon"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "THL Pembibitan"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "THL Pemeliharaan RTH"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "THL Penghijauan"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "THL Penjaga Taman"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "Supir Mobil Colt Diesel"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "Supir L300"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "Supir Mobil Tangki Penyiraman"
+    },
+    {
+      "No_Bidang": 4,
+      "Jabatan_Bidang": "Teknisi Perbengkelan"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Tenaga Keamanan TPA I"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Tenaga Keamanan TPA II"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Tenaga Keamanan Workshop"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Operator Alat Berat"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Operator Sweeper Road"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Operator Truck Compector"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Supir L300 Angkutan Sampah"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Supir Dump Truck Angkutan Sampah"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Supir Angkutan Drainase dan Parit Lingkungan Pasar"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Angkut Drainase dan Parit Lingkungan Pasar"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Petugas Sweeper Road"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Petugas Truck Compactor"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Angkut Sampah"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Kebersihan Pasar Agus Salim"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Kebersihan Pasar Cik Puan"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Kebersihan Pasar Lima Puluh"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Kebersihan Pasar Palapa"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Kebersihan Pasar Rumbai"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Kebersihan Pasar Simpang Baru"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Kebersihan Pasar Sail"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Bina Widya"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Tuah Madani"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Tenayan Raya"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Kulim"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Marpoyan Damai"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Sukajadi"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Rumbai"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Rumbai Barat"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Bukit Raya"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Pekanbaru Kota"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Sail"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Payung Sekaki"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Lima Puluh"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Rumbai Timur"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Kec. Senapelan"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Penyapuan Protokol"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Mandor Kebersihan Pasar"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Mandor Pengangkutan Sampah"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Mandor Penyapuan"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Pengurus Peralatan Kerja Bengkel"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Petugas Gudang"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Mandor TPA"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Petugas Penyapuan TPA"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Petugas Cuci Mobil"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Petugas Timbangan"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Tenaga Pembantu Pengawas Persampahan"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Operator Komputer"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Tenaga Admin Swastanisasi"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Pembantu Jasa Pelayanan Transportasi Angkutan Sampah"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Petugas Command Center/Video Wall"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Mekanik"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Pembantu Mekanik"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Angkut"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Buruh Komposting"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Pengelola Bank Sampah"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Tenaga Keamanan Cempaka"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Tenaga Keamanan Umban Sari"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Tenaga Keamanan Hutan Kota"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Supir Rumah Kompos"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Supir Bank Sampah"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Petugas Patroli dan Sosialisasi"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Petugas Pemungut Retribusi"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Petugas Administrasi Retribusi"
+    },
+    {
+      "No_Bidang": 5,
+      "Jabatan_Bidang": "Operator Komputer Aplikasi Retribusi"
+    }
+  ]
